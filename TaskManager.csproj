@@ -11,4 +11,11 @@
       <Folder Include="test\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="FluentBuilder" Version="0.11.0-preview-02">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
 </Project>
