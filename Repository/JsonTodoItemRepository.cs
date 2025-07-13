@@ -27,7 +27,7 @@ public class JsonTodoItemRepository : ITodoItemRepository
         File.WriteAllText(_filePath, JsonSerializer.Serialize(items, _jsonOptions));
     }
     
-    public TodoItem FindById(int id)
+    public TodoItem? FindById(int id)
     {
         return GetAll().FirstOrDefault(x => x.Id == id);
     }

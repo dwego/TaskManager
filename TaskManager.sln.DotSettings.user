@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=E6C25349_002D6FA1_002D4B28_002DBFCF_002D4923C2DBA4F2/@EntryIndexedValue">TaskManager.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=MSTest/@EntryIndexedValue">d6790ab7-33c2-4425-b2c9-51480cd1a852</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1943e8f8_002Dbda0_002D4b9a_002D93da_002D19e766a718af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateNewTodoItemTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::15D4E9C7-E8D4-4CA1-A112-56B61E9D098F::net9.0::TaskManager.Tests.test.TodoItemTest.CreateNewTodoItemTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20101061_002Dc107_002D4a05_002Da47e_002D2bcd021f0bf6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TodoItemTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::15D4E9C7-E8D4-4CA1-A112-56B61E9D098F::net9.0::TaskManager.Tests.test.TodoItemTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=43d1422c_002Dd663_002D43be_002Dbbbd_002D27bbb8f64cfd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateNewTodoItemTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::15D4E9C7-E8D4-4CA1-A112-56B61E9D098F::net9.0::TaskManager.Tests.test.TodoItemTest.CreateNewTodoItemTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a09993a2_002D83a6_002D4830_002Dbcd0_002Dd3619b07e956/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TodoItemTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::15D4E9C7-E8D4-4CA1-A112-56B61E9D098F::net9.0::TaskManager.Tests.test.TodoItemTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b79a3b97_002De148_002D4933_002D8fd6_002Da8c76d3143cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateNewTodoItemTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::15D4E9C7-E8D4-4CA1-A112-56B61E9D098F::net9.0::TaskManager.Tests.test.TodoItemTest.CreateNewTodoItemTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
